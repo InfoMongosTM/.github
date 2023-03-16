@@ -5,14 +5,17 @@
 
 ## Proposed techstack
 
-### Tailwind
+### Frontend
+
+#### Nuxt3 
+Web Framework
+[Docs](https://nuxt.com/)
+#### Tailwind
 CSS framework for frontend design - gets a similar look to material design
 [Docs](https://tailwindcss.com/)
 
-### Nuxt
-Web Framework
-[Docs](https://nuxt.com/)
+### Backend
 
-### Supabase
+#### Supabase
 Backend as a service, comparable to firebase
 [Docs](https://supabase.com/docs)
